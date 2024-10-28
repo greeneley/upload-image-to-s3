@@ -1,1 +1,4 @@
-Read me
+# Read me
+
+
+Su dung postman -> post -> body (form-data) -> type: File -> request
